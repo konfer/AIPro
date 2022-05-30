@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c24efeb5-3581-4bb5-8752-cdfaac6acb43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Help.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-ggplot-Test.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-ggplotTest.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-summary-status.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMarkDown.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/Help.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/My-ggplot-Test.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/My-ggplotTest.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/My-summary-status.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/MyMarkDown.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/MyRPro.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/.Rapp.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/Bottles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/arrests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/data/thedata.rda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRPro/r-read-data.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasEnsemble/PandasTransform/Base.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PandasEnsemble/PandasTransform/Base.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/.Rapp.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Bottles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/arrests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/thedata.rda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../r-read-data.Rmd" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SklearnEnsemblePro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomDummifierTrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomCutterTrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomEncodingTrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomQuantitativeImputerTrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <element signature="e#1#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/Base.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/CutterTransGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/DummifierTransGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/EncodingTransGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomCategoryImputerTrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomDummifier.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/Base.ipynb" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractTransFactroy.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractTransFactory.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractTransClass.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomCategoryImputer.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractBase/TransCreate.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractBase/AbstractTransCreate.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractBase/QuantitativeImputerTransGenerate.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractBase/AbstractTransCreator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerate.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerater.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/CustomCutterTransGenerater.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/DummifierTransGenerater.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/CustomEncodingTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/CustomDummifierTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/AbstractBase/AbstractTransClass.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomCategoryImputerTrans.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/DummifierTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/CutterTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/EncodingTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomQuantitativeImputerTrans.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform/CategoryImputerGenerator.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/Factories/CommonTransFactory.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomDummifierTrans.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomEncodingTrans.py" />
+        <option value="$PROJECT_DIR$/Util/PandasTransform/TransformStrategy/CustomCutterTrans.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/Factories/CommonTransFactory.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/CategoryImputerGenerator.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/CutterTransGenerator.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/DummifierTransGenerator.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/EncodingTransGenerator.py" />
+        <option value="$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="-254" />
+    <option name="width" value="1440" />
+    <option name="height" value="1221" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasTransform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasTransform" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasTransform" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasTransform" type="462c0819:PsiDirectoryNode" />
+              <item name="GenerateTranform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasEnsemble" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasTransform" type="462c0819:PsiDirectoryNode" />
+              <item name="TransformStrategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SklearnEnsemblePro" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.1 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SklearnEnsemblePro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Util/PandasTransform/GenerateTranform" />
+      <recent name="$PROJECT_DIR$/Util/PandasTransform/AbstractBase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c24efeb5-3581-4bb5-8752-cdfaac6acb43" name="Default Changelist" comment="" />
+      <created>1554480043530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554480043530</updated>
+      <workItem from="1554480047332" duration="11452000" />
+      <workItem from="1554537806789" duration="2707000" />
+      <workItem from="1554542185158" duration="311000" />
+      <workItem from="1554542691037" duration="8729000" />
+      <workItem from="1554555532740" duration="8629000" />
+      <workItem from="1554575624590" duration="715000" />
+      <workItem from="1554622720832" duration="1063000" />
+      <workItem from="1554625431488" duration="1847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35453000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-254" width="1440" height="1221" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980185" visible="true" weight="0.29041487" />
+      <window_info id="Structure" order="1" sideWeight="0.5019815" side_tool="true" weight="0.26824033" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006605" side_tool="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5107296" side_tool="true" visible="true" weight="0.32860938" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Jupyter" order="11" sideWeight="0.49928468" weight="0.32949513" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4892704" visible="true" weight="0.32860938" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49785408" weight="0.2639504" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/AbstractBase/AbstractTransClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/AbstractBase/AbstractTransCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/Factories/CommonTransFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/CategoryImputerGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/CutterTransGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/DummifierTransGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/EncodingTransGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/GenerateTranform/QuantitativeImputerTransGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomCategoryImputerTrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomCutterTrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomDummifierTrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomEncodingTrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/TransformStrategy/CustomQuantitativeImputerTrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEnsemble/PandasTransform/Base.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+  </component>
+</project>
